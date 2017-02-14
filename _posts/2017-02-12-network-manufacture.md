@@ -1,14 +1,15 @@
 ---
-layout:     post
-posttitle:      "互联网与制造业"
-subtitle:   " \"量变-质变\""
-date:       2017-02-12 12:00:00
-author:     "Andy"
+layout:  post
+posttitle:  "互联网与制造业"
+subtitle:   " \"量变-质变\""
+date: 2017-02-12 12:00:00
+author:  "Andy"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
-tags:    
+tags: 
    - 制造业
---- 
+---
+
 ##制造业也来弄潮互联网
 
 在互联网深度发展的今天,人们看到前进的动力,至少现在是在量变的过程中,以至于所有的事情都要互联网**+
