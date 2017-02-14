@@ -17,3 +17,4 @@ tags:
 
 我们与宝宝一同成长
 >Andy 于 2017年2月
+<embed autostart="true" hidden="true" loop="true" src="http://data7.5sing.kgimg.com/T1jtZyBXbT1R47IVrK.mp3"></embed>
