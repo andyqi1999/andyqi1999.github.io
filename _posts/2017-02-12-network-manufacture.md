@@ -8,6 +8,7 @@ header-img: "img/post-bg-2015.jpg"
 catalog:    true
 tags: 
    - 制造业
+   - 互联网
 ---
 
 ##制造业也来弄潮互联网
