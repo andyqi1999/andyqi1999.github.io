@@ -12,9 +12,9 @@ baseurl: ""                             # for example, '/blog' if your blog host
 
 # SNS settings
 RSS: false
-weibo_username:     andy1999
+#weibo_username:     andyqi1999
 #zhihu_username:     andy1999
-github_username:    andy1999
+github_username:    andyqi1999
 #twitter_username:  andy1999
 #facebook_username:  andy1999
 # linkedin_username:  firstname-lastname-idxxxx
@@ -63,14 +63,14 @@ duoshuo_share: true                     # set to false if you want to use Commen
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+#ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+#ga_domain: huangxuan.me
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写感悟，做做设计，<br>水到渠成————汇聚的力量
+sidebar-about-description: "写写感悟，做做研究，<br>水到渠成————汇聚的力量
 sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
