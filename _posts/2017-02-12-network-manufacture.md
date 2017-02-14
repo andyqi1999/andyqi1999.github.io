@@ -1,6 +1,6 @@
 ---
 layout:  post
-title:"互联网与制造业"
+title:   "互联网与制造业"
 subtitle:   " \"量变-质变\""
 date: 2017-02-12 12:00:00
 author:  "Andy"
