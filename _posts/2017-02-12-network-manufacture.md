@@ -1,11 +1,11 @@
 ---
-layout:  post
-title:   "互联网与制造业"
+layout:     post
+title:      "互联网与制造业"
 subtitle:   " \"量变-质变\""
-date: 2017-02-12 12:00:00
-author:  "Andy"
+date:       2017-02-12 12:00:00
+author:     "Andy"
 header-img: "img/post-bg-2015.jpg"
-catalog: true
+catalog:    true
 tags: 
    - 制造业
 ---
