@@ -3,7 +3,7 @@ title: Andy's Blog
 SEOTitle: Andy博客 | Andy's Blog
 header-img: img/home-bg.jpg
 email: andiqi@hotmail.com
-description: "关于机械,电子,计算机,控制编成,设计| Andy晓野 的个人博客，与你一起发现更大的世界。"
+description: "关于机械,电子,计算机,控制编成,设计| Andy 晓野 的个人博客，用我们的好奇心看我们的世界。"
 keyword: "晓野"
 url: "https://andyqi1999.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
@@ -70,7 +70,7 @@ duoshuo_share: true                     # set to false if you want to use Commen
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写感悟，做做研究，<br>水到渠成————汇聚的力量
+sidebar-about-description: "写写感悟，做做研究，<br>水到渠成——力量的汇聚
 sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
