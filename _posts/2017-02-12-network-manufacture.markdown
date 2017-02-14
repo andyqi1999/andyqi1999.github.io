@@ -1,11 +1,13 @@
----layout:     
+---
+layout:     post
 posttitle:      "互联网与制造业"
 subtitle:   " \"量变-质变\""
 date:       2017-02-12 12:00:00
-author:     "Andy"header-img: "img/post-bg-2015.jpg"
+author:     "Andy"
+header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:    
-   - 互联网,制造业
+   - 制造业
 --- 
 ##制造业也来弄潮互联网
 
