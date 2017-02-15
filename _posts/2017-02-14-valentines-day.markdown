@@ -12,8 +12,8 @@ tags:
 ---
 
 # 情人节快乐! 快乐情人节!
-![](/img/in-post/post-valentins-day.PNG)
+  ![](/img/in-post/post-valentins-day.PNG)
 
-我们与宝宝一同成长
-> Andy 于 2017年2月.
-  <embed autostart="true" hidden="true" loop="true" src="http://data7.5sing.kgimg.com/T1jtZyBXbT1R47IVrK.mp3"></embed>
+  <P>我们与宝宝一同成长</P>
+  > Andy 于 2017年2月.
+  <embed autostart="true" hidden="true" loop="true" src="http://data7.5sing.kgimg.com/T1jtZyBXbT1R47IVrK.mp3">
