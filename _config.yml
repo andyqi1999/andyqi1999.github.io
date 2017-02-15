@@ -1,6 +1,6 @@
 # Site settings
 title: Andy's Blog
-SEOTitle: Andy博客 | Andy's Blog
+SEOTitle: Andy的博客 | Andy's Blog
 header-img: img/home-bg.jpg
 email: andiqi@hotmail.com
 description: "关于机械,电子,计算机,控制编成,设计| Andy 晓野 的个人博客，用我们的好奇心看我们的世界。"
@@ -51,9 +51,9 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: huxblog
+#duoshuo_username: huxblog
 # Share component is depend on Comment so we can NOT use share only.
-duoshuo_share: true                     # set to false if you want to use Comment without Sharing
+#duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
 
 
